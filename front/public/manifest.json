@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://img.freepik.com/premium-photo/business-word-sphere_698953-4835.jpg?size=626&ext=jpg&ga=GA1.1.433117207.1684238192&semt=ais",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://img.freepik.com/premium-photo/business-word-sphere_698953-4835.jpg?size=626&ext=jpg&ga=GA1.1.433117207.1684238192&semt=ais",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.freepik.com/premium-photo/business-word-sphere_698953-4835.jpg?size=626&ext=jpg&ga=GA1.1.433117207.1684238192&semt=ais",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
